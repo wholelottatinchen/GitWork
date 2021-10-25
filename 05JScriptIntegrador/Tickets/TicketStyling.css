@@ -1,0 +1,43 @@
+#nav-item-green{color: green;}
+
+h7{
+	font-size: 80%;
+}
+
+.form{
+	width: 70%;
+}
+
+.footing{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-inline: 5%;
+    padding-block: 10px;
+    background: #175250;   
+}
+
+.card{
+	width: 20%;
+}
+
+.btns{
+	border-style: none;
+	background-color: #51a351;
+}
+
+.bg-menuinf{
+	background-color: red;
+	background-image: linear-gradient(to right, #135 , #357);
+}
+
+.nav-link{
+	color: white;
+}
+
+.card-title{
+	font-weight: bold;
+}
+
+
+

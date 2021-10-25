@@ -1,0 +1,86 @@
+.greenBackground{
+  background-color: green;
+  border-color: green;
+}
+
+.lightGreenBackground{
+  background-color: light green;
+  border-color: green;
+}
+
+.oradoresHead{
+  text-align: center;
+}
+
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+.carousel-item {
+  height: 30rem;
+}
+
+.carousel-item > Images {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 25rem;
+}
+
+.carouselBtnStyle{ 
+   border-color:white;
+   border: solid 1px; 
+   width: 200px;
+   text-align:center;
+   height: 50px;
+   font-size: 1.3rem;
+   display: inline-block;
+}
+
+.form{
+    width: 70%;
+    margin-block: 10px;
+}
+
+.formMargin{
+    margin-block: 10px;
+}
+
+.blackDottedText{
+    color: black;
+    border-bottom: 1px dotted;
+    text-decoration: none;
+}
+
+.footing{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-inline: 5%;
+    padding-block: 10px;
+    background: #175250;   
+}
+.footingItems{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    text-align: center;
+    color: white;  
+}
+
+#greenFont{
+  color: green;
+}
+
+#whiteFont{
+  color: white;
+}
+
+#honoluluImg{
+    margin: 0;
+    padding: 0;
+    margin-block: 3%;
+}
